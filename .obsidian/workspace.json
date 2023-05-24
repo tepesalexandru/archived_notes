@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "14a0ad0750ab4220",
+    "type": "split",
+    "children": [
+      {
+        "id": "789313c8cb666cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fba8a440ee185be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f856b3048cd2953",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec30a3196e269fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ca1e18b3f219e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64331a383c86604b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c43ca45a4f37c26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97fbcec27b180f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f320c519e92047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af638ec377aef114",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60fac51e11bdd044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a96c765950d2cf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91a5880c89b3d0ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66ca1e18b3f219e5",
+  "lastOpenFiles": [
+    "Pasted image 20221113183012.png.md",
+    "Misc/Terragrunt.md",
+    "Misc/Software Documentation.md",
+    "Misc/SignalR.md",
+    "Misc/Puppet.md",
+    "Misc/Productivity.md",
+    "Misc/PolyBase.md",
+    "Misc/Open-Source Licenses.md",
+    "Misc/OLAP.md",
+    "Misc/Jaeger.md",
+    "Misc/ExternalDNS.md",
+    "Misc/Data Security.md",
+    "Misc/Data Mesh.md",
+    "Misc/Data Lake.md",
+    "Misc/Clean Architecture.md",
+    "Misc/Chief Financial Officer.md",
+    "Misc/Chef Infra.md",
+    "Misc/Bulk Copy Program.md",
+    "Misc/Ansible.md",
+    "Misc",
+    "Networking/The Internet Protocol (IP).md",
+    "Networking/Network Types.md",
+    "Networking/Network Topologies.md",
+    "Networking/Network Infrastructure.md",
+    "Networking",
+    "University/Transformari Geometrice.md",
+    "University/Grafica pe Calculatoare.md",
+    "University"
+  ]
+}
