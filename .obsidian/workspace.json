@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3a0872a062ba6207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LPIC-1 101/2. Installation & Package Management/✅ ✏️ Design Hard Disk Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/LPIC-1 101/2. Installation & Package Management/✅ ✏️ Design Hard Disk Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/LPIC-1 101/2. Installation & Package Management/✅ ✏️ Design Hard Disk Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/LPIC-1 101/2. Installation & Package Management/✅ ✏️ Design Hard Disk Layout.md"
+              }
             }
           }
         ]
@@ -138,35 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66ca1e18b3f219e5",
+  "active": "3a0872a062ba6207",
   "lastOpenFiles": [
-    "Pasted image 20221113183012.png.md",
-    "Misc/Terragrunt.md",
-    "Misc/Software Documentation.md",
-    "Misc/SignalR.md",
-    "Misc/Puppet.md",
-    "Misc/Productivity.md",
-    "Misc/PolyBase.md",
-    "Misc/Open-Source Licenses.md",
-    "Misc/OLAP.md",
-    "Misc/Jaeger.md",
-    "Misc/ExternalDNS.md",
-    "Misc/Data Security.md",
-    "Misc/Data Mesh.md",
-    "Misc/Data Lake.md",
-    "Misc/Clean Architecture.md",
-    "Misc/Chief Financial Officer.md",
-    "Misc/Chef Infra.md",
-    "Misc/Bulk Copy Program.md",
-    "Misc/Ansible.md",
-    "Misc",
-    "Networking/The Internet Protocol (IP).md",
-    "Networking/Network Types.md",
-    "Networking/Network Topologies.md",
-    "Networking/Network Infrastructure.md",
-    "Networking",
-    "University/Transformari Geometrice.md",
-    "University/Grafica pe Calculatoare.md",
-    "University"
+    "VIM.md",
+    "tRPC.md",
+    "SSH.md",
+    "Prisma.md",
+    "Linux Namespaces.md",
+    "Linux Bandit.md",
+    "Introduction to Neural Networks.md",
+    "Hypervisor.md",
+    "Gratefulness 2023.md",
+    "Gratefulness 2022.md",
+    "Default Gateway.md",
+    "Cron Jobs.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 81-100.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 61-80.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 41-60.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 21-40.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 141-156.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 121-140.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 101-120.md",
+    "Azure/DP-900/Exam Practice/ExamTopics/ExamTopics Q. 1-20.md",
+    "Azure/Azure Services/Web/Serverless/Service Mesh.md",
+    "Azure/Azure Services/Web/Serverless/Durable Functions.md",
+    "Azure/Azure Services/Web/Serverless/Azure Functions.md",
+    "Azure/DP-900/Fundamentals/Types of Charts.md",
+    "Azure/DP-900/Fundamentals/Types of Analysis.md",
+    "Azure/DP-900/Fundamentals/Relational Data.md",
+    "Azure/DP-900/Exam Practice/ExamTopics",
+    "Azure/Azure Services/Web/Serverless",
+    "Azure/DP-900/Fundamentals",
+    "Azure/DP-900/Exam Practice",
+    "Azure/Azure Services/Web",
+    "Azure/Azure Services/Data-Related",
+    "Azure/AZ-400/DevOps",
+    "Azure/AZ-400/Azure Automation",
+    "Azure/DP-900",
+    "Azure/Azure Services"
   ]
 }
